@@ -1,0 +1,28 @@
+{
+  "name": "sass-compass-cli",
+  "version": "1.0.0",
+  "description": "A sass-compass template,for starting static web page writing easily.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyh/sass-compass-cli"
+  },
+  "homepage": "https://github.com/wyh/sass-compass-cli",
+  "keywords": [
+    "sass",
+    "compass",
+    "cli"
+  ],
+  "author": "wyh19",
+  "mail": "wyh19 <wyh_19@163.com>",
+  "license": "MIT",
+  "bin": {
+    "sass-compass": "./bin/sass-compass.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.0",
+    "shelljs": "^0.8.2"
+  }
+}
