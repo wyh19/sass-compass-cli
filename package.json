@@ -1,6 +1,6 @@
 {
   "name": "sass-compass-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A sass-compass template,for starting static web page writing easily.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
